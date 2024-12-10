@@ -94,10 +94,11 @@ DOMAIN,cc.coemn.com
 # > MisakaF-aca
 DOMAIN,emby.aca.best
 DOMAIN,porn.aca.best
-DOMAIN,push-kr.misakaf.org
-DOMAIN, 102.223.180.108
-DOMAIN, stream4.misakaf.org
+DOMAIN,misakaf.org
+DOMAIN,102.223.180.108
+DOMAIN,stream4.misakaf.org
 
 # > pech
 DOMAIN,embymv.tk
 DOMAIN,peachmv.me
+DOMAIN,embymv.link
