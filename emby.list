@@ -1,41 +1,6 @@
 # > TreeDiagram
 DOMAIN-SUFFIX,123456.al
 
-# > emby-nexitally
-DOMAIN,emby.nexitally.com
-
-# > emby-paoche
-DOMAIN,emby.cjpc.cc
-
-# > emby-flowercloud
-DOMAIN,emby.flowercloud.yt
-
-# > emby-maying
-DOMAIN,emby.maying.club
-
-# > emby-mdss
-DOMAIN,emby.mdss.cloud
-
-# > emby-ytoo
-DOMAIN,emby.ytoo.li
-
-# > emby-w8ves
-DOMAIN,embyserver.ga
-
-# > emby-prpr
-DOMAIN,emby.prprcloud.com
-
-# > emby-nyancat
-DOMAIN,emby.nyancat.net
-
-# > emby-Plus
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site 
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
-
 # > emby-Otaku
 DOMAIN,emby.otakudrive.life
 DOMAIN,emby2.otakudrive.life 
@@ -51,7 +16,7 @@ DOMAIN,cf1.jmsooo.com
 
 # > pornemby
 DOMAIN,pornemby.club
-DOMAIN,emby.netyi.cloud
+DOMAIN-SUFFIX,netyi.cloud
 
 # > IMM
 DOMAIN,emby.immtel.com
@@ -84,21 +49,17 @@ DOMAIN,pub3.emby.wtf
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
 
-# > MisakaF
-DOMAIN-SUFFIX,misakaf.org
 
 # > Cc
-DOMAIN,cc.ccemby.tk
-DOMAIN,cc.coemn.com
+DOMAIN-SUFFIX,ccemby.tk
+DOMAIN-SUFFIX,coemn.com
 
 # > MisakaF-aca
-DOMAIN,emby.aca.best
-DOMAIN,porn.aca.best
-DOMAIN,misakaf.org
-DOMAIN,102.223.180.108
-DOMAIN,stream4.misakaf.org
+DOMAIN-SUFFIX,aca.best
+IP-CIDR, 102.223.180.108
+DOMAIN-SUFFIX,misakaf.org
 
 # > pech
-DOMAIN,embymv.tk
-DOMAIN,peachmv.me
-DOMAIN,embymv.link
+DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,embymv.link
