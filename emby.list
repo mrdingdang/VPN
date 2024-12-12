@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,coemn.com
 
 # > MisakaF-aca
 DOMAIN-SUFFIX,aca.best
-IP-CIDR, 102.223.180.108
+IP-CIDR, 102.223.180.108/24,no-resolve
 DOMAIN-SUFFIX,misakaf.org
 
 # > pech
